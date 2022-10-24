@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Ejecutable_gr4.bin.dir/src/files_ops1.c.o CMakeFiles/Ejecutable_gr4.bin.dir/src/funciones_grx.c.o CMakeFiles/Ejecutable_gr4.bin.dir/src/main.c.o -o bin/Ejecutable_gr4.bin 
